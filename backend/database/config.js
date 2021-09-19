@@ -1,7 +1,7 @@
 module.exports = {
-    HOST: "localhost",
-    USER: "root",
-    PASSWORD: "1234",
+    HOST: "netbanking.cu0buaumd8bx.us-east-2.rds.amazonaws.com",
+    USER: "admin",
+    PASSWORD: "admin123",
     DB: "netbanking",
     dialect: "mysql",
     pool: {
